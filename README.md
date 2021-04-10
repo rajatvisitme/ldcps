@@ -19,9 +19,9 @@ Ready to #Drive.
 
 ## Results
 <b>Test 1</b><br>
-![alt text](https://github.com/rajatvisitme/lane_detection_and_collision_prevention_system/blob/master/results/result1.jpg
+![alt text](https://github.com/rajatvisitme/ldcps/blob/master/results/result1.jpg
 )
 <br><br>
 <b>Test 2</b><br>
-![alt text](https://github.com/rajatvisitme/lane_detection_and_collision_prevention_system/blob/master/results/result2.jpg
+![alt text](https://github.com/rajatvisitme/ldcps/blob/master/results/result2.jpg
 )
