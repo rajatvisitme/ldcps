@@ -12,7 +12,7 @@ The system is capable of detecting road lanes for safe driving and also detects 
 
   Use <b>pip</b> to install any missing dependencies.
 ## Before you start -
-Follow the [installation instructions](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md) for tensorflow object detection API.<br>
+Follow the installation instructions for tensorflow object detection API.<br>
 Now clone this repo into your tensorflow\models\research\object_detection folder. (make sure main.py is in object_detection folder)<br>
 
 Ready to #Drive.
